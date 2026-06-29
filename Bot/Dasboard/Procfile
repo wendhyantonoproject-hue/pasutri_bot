@@ -1,0 +1,2 @@
+bot: python bot/bot.py
+web: python dashboard/dashboard.py
